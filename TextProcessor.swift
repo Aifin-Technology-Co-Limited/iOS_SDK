@@ -1,9 +1,4 @@
-//
-//  TextProcessor.swift
-//  HSBCMain
-//
-//  Created by Woojang Pyeon on 1/31/24.
-//
+
 
 import Foundation
 import UIKit
