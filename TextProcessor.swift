@@ -3,7 +3,7 @@ import UIKit
 import Vision
 import TensorFlowLite
 import CoreGraphics
-1
+
 public class TextProcessor {
     public init() {
             
