@@ -1,3 +1,9 @@
+//
+//  ImageProcessor.swift
+//  AIFinDemoApp
+//
+//  Created by Woojang Pyeon on 1/15/24.
+//
 
 import Foundation
 import UIKit
