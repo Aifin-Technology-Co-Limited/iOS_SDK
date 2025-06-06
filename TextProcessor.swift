@@ -405,6 +405,11 @@ public class TextProcessor {
                             customScore -= 100
                         }
                         
+                        if(digitLength == 0)
+                        {
+                            self.cvn_score = 0
+                        }
+                        
                       
                         let idealRatio: CGFloat = 8.0
                         let ratioDifference = abs(ratio - idealRatio) / idealRatio
